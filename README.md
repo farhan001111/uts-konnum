@@ -3,7 +3,7 @@ Program ini dibuat untuk menyelesaikan persamaan nonlinier menggunakan metode bi
 
 Anggota Kelompok 5
 1. M. Rafa Vichdan Aufa
-2. Muhammad Haikal Al Firah
+2. Muhammad Haikal Al Fikrah
 3. M. Diral
 4. Rayhan Fitra
 5. Farhan Syafiq
