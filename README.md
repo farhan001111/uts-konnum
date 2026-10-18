@@ -2,7 +2,7 @@ Deskripsi
 Program ini dibuat untuk menyelesaikan persamaan nonlinier menggunakan metode biseksi. Program dijalankan melalui CLI (Command-Line Interface), sehingga pengguna memasukkan fungsi dan nilai yang diperlukan melalui terminal.
 
 Anggota Kelompok 5
-1. M. Rafa Wichdan Aufa
+1. M. Rafa Vichdan Aufa
 2. Muhammad Haikal Al Firah
 3. M. Diral
 4. Rayhan Fitra
