@@ -49,4 +49,22 @@ def main():
         b = float(input("Batas atas: "))
         tol = float(input("Toleransi (contoh: 0.001): "))
 
-    
+    if a >= b:
+            print("Error: batas bawah harus lebih kecil dari batas atas.")
+            return
+        if tol <= 0:
+            print("Error: toleransi harus lebih dari 0.")
+            return
+ 
+        akar = biseksi(f, a, b, tol)
+        if akar is not None:
+            print(f"\nHasil: akar pendekatan x = {akar:.6f}")
+            print(f"f(x) = {f(akar):.6f}")
+    except ValueError:
+        print("Error: input angka tidak valid.")
+    except Exception as e:
+        print(f"Error: fungsi tidak valid ({e}).")
+ 
+ 
+if __name__ == "__main__":
+    main()
