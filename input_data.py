@@ -10,7 +10,7 @@ toleransi = float(input("Masukkan toleransi: "))
 def f(x):
     return eval(fungsi, {"x": x, "math": math})
 
-print("\n=== Data Metode Bisection ===")
+print("\n Data Metode Bisection ")
 print("Fungsi       :", fungsi)
 print("Batas bawah  :", a)
 print("Batas atas   :", b)
